@@ -1,17 +1,17 @@
 // Zodiac sign data
 const zodiacData = {
-    aries: { name: 'Aries', icon: '♈', dates: 'Mar 21 - Apr 19' },
-    taurus: { name: 'Taurus', icon: '♉', dates: 'Apr 20 - May 20' },
-    gemini: { name: 'Gemini', icon: '♊', dates: 'May 21 - Jun 20' },
-    cancer: { name: 'Cancer', icon: '♋', dates: 'Jun 21 - Jul 22' },
-    leo: { name: 'Leo', icon: '♌', dates: 'Jul 23 - Aug 22' },
-    virgo: { name: 'Virgo', icon: '♍', dates: 'Aug 23 - Sep 22' },
-    libra: { name: 'Libra', icon: '♎', dates: 'Sep 23 - Oct 22' },
-    scorpio: { name: 'Scorpio', icon: '♏', dates: 'Oct 23 - Nov 21' },
-    sagittarius: { name: 'Sagittarius', icon: '♐', dates: 'Nov 22 - Dec 21' },
-    capricorn: { name: 'Capricorn', icon: '♑', dates: 'Dec 22 - Jan 19' },
-    aquarius: { name: 'Aquarius', icon: '♒', dates: 'Jan 20 - Feb 18' },
-    pisces: { name: 'Pisces', icon: '♓', dates: 'Feb 19 - Mar 20' }
+    aries: { name: 'Widder', icon: '♈', dates: 'Mär 21 - Apr 19' },
+    taurus: { name: 'Stier', icon: '♉', dates: 'Apr 20 - Mai 20' },
+    gemini: { name: 'Zwillinge', icon: '♊', dates: 'Mai 21 - Jun 20' },
+    cancer: { name: 'Krebs', icon: '♋', dates: 'Jun 21 - Jul 22' },
+    leo: { name: 'Löwe', icon: '♌', dates: 'Jul 23 - Aug 22' },
+    virgo: { name: 'Jungfrau', icon: '♍', dates: 'Aug 23 - Sep 22' },
+    libra: { name: 'Waage', icon: '♎', dates: 'Sep 23 - Okt 22' },
+    scorpio: { name: 'Skorpion', icon: '♏', dates: 'Okt 23 - Nov 21' },
+    sagittarius: { name: 'Schütze', icon: '♐', dates: 'Nov 22 - Dez 21' },
+    capricorn: { name: 'Steinbock', icon: '♑', dates: 'Dez 22 - Jan 19' },
+    aquarius: { name: 'Wassermann', icon: '♒', dates: 'Jan 20 - Feb 18' },
+    pisces: { name: 'Fische', icon: '♓', dates: 'Feb 19 - Mär 20' }
 };
 
 // Load horoscopes from JSON
