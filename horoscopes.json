@@ -1,0 +1,336 @@
+{
+  "categoryHoroscopes": {
+    "love": [
+      {
+        "text": "Die Liebe sucht Sie, aber sie hat kein Empfang. Machen Sie durch lautes Schreien auf sich aufmerksam.",
+        "value": 8
+      },
+      {
+        "text": "Romantik ist möglich, aber auch spontane Selbstentzündung. Beides gleich wahrscheinlich.",
+        "value": 5
+      },
+      {
+        "text": "Ihre Seelenverwandte ist heute mit jemand anderem verabredet.",
+        "value": 3
+      },
+      {
+        "text": "Romantisch bleibt es trostlos. Die Sterne empfehlen: Senken Sie Ihre Standards oder probieren Sie MDMA statt Ketamin.",
+        "value": 2
+      },
+      {
+        "text": "Der Jupiter steht im Sternzeichen Jungfrau. Das muss nicht weiter erklärt werden.",
+        "value": 1
+      },
+      {
+        "text": "Liebe muss nicht zwischenmenschlich sein. Sie können zum Beispiel auch Bayern lieben.",
+        "value": 10
+      },
+      {
+        "text": "Venus meidet Ihr Haus konsequent seit Jahren. Erwägen Sie Verzweiflung oder Katzen. ",
+        "value": 4
+      },
+      {
+        "text": "Sie haben heute beste Chancen bei Steinböcken. Nehmen Sie sich dabei vor Tierschützern in Acht.",
+        "value": 9
+      },
+      {
+        "text": "Die Liebe liegt wie Pollen in der Luft. Sie sind gegen beides allergisch.",
+        "value": 2
+      },
+      {
+        "text": "Sie hätten den einen Typ in der Mensa besser angesprochen, dann sähe Ihr Liebesleben heute etwas spannender aus.",
+        "value": 5
+      },
+      {
+        "text": "Sie treffen heute Ihren Traumpartner/Ihre Traumpartnerin oder auch beide. Nach dem Aufwachen können Sie sich aber nicht erinnern.",
+        "value": 10
+      },
+      {
+        "text": "Ihre Anziehungskraft reicht heute vielleicht für Hose und Socken. Mit dem Oberteil haben Sie bereits zu kämpfen.",
+        "value": 3
+      },
+      {
+        "text": "Die Anwendung der Cauchy-Konvergenzkriterien auf menschliche Interaktionen beweist nur, dass diese gegen Null konvergieren.",
+        "value": 1
+      },
+      {
+        "text": "Der Satz von Bolzano-Weierstraß garantiert keine Häufungspunkte in Ihrem Liebesleben, egal wie kompakt Ihre Menge ist.",
+        "value": 2
+      },
+      {
+        "text": "Auch heute werden Sie aller Wahrscheinlichkeit nach nicht heiraten.",
+        "value": 4
+      },
+      {
+        "text": "Ihre Obsession mit der Riemann-Hypothese zerstört Ihre Beziehungen. Primzahlen sind keine Grundlage für Dating.",
+        "value": 3
+      },
+      {
+        "text": "Ihr Liebesleben ist so lebhaft wie eine Grabplatte. Die Sterne empfehlen halluzinogene Pilze.",
+        "value": 3
+      }
+    ],
+    "finance": [
+      {
+        "text": "Ihre flüssigen Assets bleiben liquide. Es empfiehlt sich ein Eimer oder eine Flasche zur Aufbewahrung.",
+        "value": 10
+      },
+      {
+        "text": "Setzen Sie auf die Lottozahlen 7, 12, 21, 32, 37 und 45 mit Superzahl 3.",
+        "value": 10
+      },
+      {
+        "text": "Die Sterne raten Ihnen zum Kauf von gehebelten Derivaten. Rechtlicher Hinweis: Hiermit schließe ich sämtliche Haftung aus.",
+        "value": 9
+      },
+      {
+        "text": "Ungünstige Konstellationen bedrohen Ihr Gehalt. Überweisen Sie es mir prophylaktisch, damit ich es reinigen kann.",
+        "value": 1
+      },
+      {
+        "text": "Wenn Sie im Jahr 2008 einige Bitcoin gekauft haben, können Sie sich dank Jupiter heute über finanziellen Wohlstand freuen.",
+        "value": 8
+      },
+      {
+        "text": "Wenn Sie heute wieder einkaufen gehen, wird sich dies negativ auf Ihr Vermögen auswirken.",
+        "value": 5
+      },
+      {
+        "text": "Uranus rät: Wer im Mietshaus sitzt, soll nicht mit Scheinen werfen.",
+        "value": 1
+      },
+      {
+        "text": "Man darf die Sachen nicht nur von einer Seite sehen. Daher sollten Sie jede Münze zweimal umdrehen.",
+        "value": 7
+      },
+      {
+        "text": "Geld kommt und geht. Meistens geht es.",
+        "value": 4
+      },
+      {
+        "text": "Schlechte Neuigkeiten für Spekulanten: Weil Trump seine Klappe nicht halten kann, bleibt die Marktlage volatil.",
+        "value": 4
+      },
+      {
+        "text": "Der Staat kann Ihnen keine Rente garantieren. Dafür müssen Sie nicht in die Sterne schauen, denn es reicht schon ein Blick in den Bundestag.",
+        "value": 3
+      },
+      {
+        "text": "Solange Sie nicht auf Ihren Kontostand blicken, existiert er in einer Superposition mit Reichtum.",
+        "value": 8
+      },
+      {
+        "text": "Ihre Rente wird nicht reichen. Die Polkappen schmelzen schneller, als Ihr Sparplan wächst.",
+        "value": 2
+      },
+      {
+        "text": "Die Venus im retrograden Haus von Thanos mahnt zur Balance: Halbieren Sie heute Ihre Ausgaben. Oder Ihre Freunde.",
+        "value": 5
+      },
+      {
+        "text": "Die Konstellation von Pluto und Septurn ist identisch mit der, bei der zuletzt die GameStop-Aktien durch die Decke geschossen sind. Ziehen Sie Ihre eigenen Schlüsse.",
+        "value": 8
+      },
+      {
+        "text": "Sie kommen unverhofft zu einer größeren Summe Bargeld: Am Geldautomaten vertippen Sie sich um eine 0 zu viel.",
+        "value": 9
+      }
+    ],
+    "health": [
+      {
+        "text": "Ihre Zellen teilen sich unkontrolliert. Machen Sie sich keine Sorgen, solange Sie genug Globuli nehmen.",
+        "value": 10
+      },
+      {
+        "text": "Merkur verdoppelt Ihre Gedanken, was zu Schizophrenie führen kann. Der Vorteil: Es reicht, wenn einer von Ihnen zur Therapie geht.",
+        "value": 8
+      },
+      {
+        "text": "Die Deklinationsparallele von Steinbock und Waage kann auch Ihnen Kopfschmerzen bereiten, wenn Sie vor sechs Uhr morgens aufstehen.",
+        "value": 7
+      },
+      {
+        "text": "Der Morgenstern geht zwischen Frankfurter Hauptbahnhof und Commerzbank auf. Ein guter Tag, um einen Venenzugang zu legen.",
+        "value": 9
+      },
+      {
+        "text": "Körperlich geht es Ihnen gut, solange Sie gesund sind. Dem tut auch die Apostel keinen Abbruch.",
+        "value": 10
+      },
+      {
+        "text": "Die Sonne steht im Skorpion - ganz schlechtes Omen! Gegen akuten Autismus helfen jetzt nur noch Schüßler-Salze A, B, C und die 6.",
+        "value": 1
+      },
+      {
+        "text": "Mars im zweiten Haus deutet auf Metastasen hin. Hoffentlich sind Sie privatversichert.",
+        "value": 1
+      },
+      {
+        "text": "Auch bei Wohltätern wie Jupiter im Haus der Zwillinge ist heute kein guter Tag, um Heroin zu nehmen.",
+        "value": 3
+      },
+      {
+        "text": "Da der Saturn durch seinen Gegenspieler geschwächt ist, sind Löwen Ihnen nicht wohlgesonnen. Eine Safari könnte mit Fleischwunden enden.",
+        "value": 5
+      },
+      {
+        "text": "Die Rektaszension des Neptun übersteigt Ihren Blutdruck. Vorgestern wäre der beste Tag gewesen, mit dem Rauchen anzufangen.",
+        "value": 4
+      },
+      {
+        "text": "Ihr Körper sendet gemischte Signale. Ignorieren Sie sie zugunsten von mehr Koffein.",
+        "value": 7
+      },
+      {
+        "text": "Wenn Sie nicht aufhören, an Horoskope zu glauben, droht Ihnen die Psychiatrie.",
+        "value": 2
+      }
+    ]
+  },
+  "generalHoroscopes": {
+    "aries": [
+      "Merkur steht oriental und gemahnt zu mehr Ehrlichkeit. Denn: Wer anderen einen Bären aufbindet, dem droht das Strafgesetzbuch.",
+      "Der große Wagen fährt in den Saturn. Stehen Sie deshalb nicht zu nah an den Schaufenstern, oder besser: gehen Sie stattdessen in den MediaMarkt.",
+      "Ihr Schutzengel hat heute frei. Ein Praktikant übernimmt. Daher: vorausschauend fahren.",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "."
+    ],
+    "taurus": [
+      "Ihr Chakra schwingt auf der Frequenz von Ultraschall. Fledermäuse finden Sie abstoßend und werden Sie meiden.",
+      "Ihr astrales Tier ist ein Nacktmull. Exhibitionismus würde Ihnen Karma bringen, aber auch eine Anzeige.",
+      "Merkur schenkt Ihnen heute doppelte Energie zur Prokrastination. Leider steht der Algorithmus im Exil und zeigt Ihnen nur langweilige Shorts.",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "."
+    ],
+    "gemini": [
+      "Vorsicht vor Wohlordnungen auf Potenzmengenhierarchien! Das Lemma von Zorn führt zu maximalen Ketten und sozialer Isolation.",
+      "Die Zwillinge sind eindeutig unmissverständlich: Sie werden heute etwas essen. Falls nicht, wird sich das Problem bald von selbst lösen.",
+      "Die Konstellation von Mond und Merkur deutet darauf hin, dass Sie Luft zum Atmen benötigen. Meiden Sie das Vakuum.",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "."
+    ],
+    "cancer": [
+      "Venus und Lackmus rügen die Vier Aposteln. Kein guter Tag zum Sündigen.",
+      "Eine rote Sonne geht auf: Heute Nacht ist Blut vergossen worden. Meiden Sie deshalb Gaza und den Donbass.",
+      "Der Tierschutz hat Sie schon länger unter Verdacht. Lassen Sie heute die Katze aus dem Sack.",
+      "Wenn Saturn in den Wassermann wandert, könnte sich ein Prinz aus Nigeria bei Ihnen melden. Er wird Ihnen Glück und Reichtum bescheren.",
+      "Das Universum versucht heute wieder, Entropie zu maximieren. Sie sollten es ebenfalls tun, aber Obacht: Das Herbeiführen von Kernexplosionen ist strafbar.",
+      ".",
+      "D.",
+      ".",
+      ".",
+      "."
+    ],
+    "leo": [
+      "In seiner retrogradierenden Rektaszension möchte Merkur Ihnen ein Zeichen senden. Lassen Sie insbesondere nachmittags Ihren WLAN-Router eingeschaltet.",
+      "Ihre Aura leuchtet im Infrarotbereich. Nachtsichtgeräte orten Sie als Bedrohung. Vermeiden Sie Militärzonen.",
+      "Sie werden in den nächsten 24 Stunden älter. Reichen Sie Beschwerde beim zweiten Hauptsatz der Thermodynamik ein.",
+      "Ihre Beschäftigung mit der Kontinuumshypothese führt zu existenziellen Krisen. Gödels Unvollständigkeitssatz gilt auch für Sie.",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "."
+    ],
+    "virgo": [
+      "Neptun wandert wieder in Ihr Haus. Da hilft auch die Unterlassungserklärung nichts. Sie müssen ihn zwangsräumen lassen.",
+      "Die Konjunktion von Saturn und seinem Ring fordert größere Ordnung. Legen Sie Ihre Gegenstände parallel oder in rechten Winkeln aus.",
+      "Wenden Sie heute Ihre Erkenntnisse aus der Topologie auf die Quantenchromodynamik an. Das zeigt Ihnen die Grenzen Ihrer Intelligenz.",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "."
+    ],
+    "libra": [
+      "Die Sonne im Haus des Steinbocks deckt Geheimnisse auf. Daher den Browser-Verlauf prophylaktisch löschen.",
+      "Quirin hat heute die Karten schlecht gemischt. Wenn Sie verlieren, liegt es an ihm.",
+      "Saturn penetriert Uranus mit ungewöhnlicher Intensität. Für Sie bedeutet das: Konzentrationsschwierigkeiten.",
+      "Was taucht da hinter Jupiter auf? Das ist kein Mond, es ist eine Raumstation! Verabschieden Sie sich von Ihren spirituellen Verwandten auf Alderaan.",
+      "Mars wandert ins Exil. Sie müssen auf andere Schokoriegel setzen.",
+      "Die Sonne berührt Uranus sanft. Ihre gedankliche Unreife manifestiert sich in albernem Kichern.",
+      "Mars deutet auf geopolitische Konflikte hin. Viel Spaß an der Ostfront.",
+      "Die Planeten im elften Haus raten zu mehr Spontaneität im Straßenverkehr. Ampeln sind nur Empfehlungen.",
+      "Die Sakristei des Mondes wandert vom Liturgischen ins Subkutane. Stecken Sie sich vorsorglich ein Ass in Ihren Ärmel.",
+      "Der Mond ruft Sie aus dem Subkutanen. Das bedeutet, dass Sie ein Ass im Ärmel haben: spielen Sie also heute Poker."
+    ],
+    "scorpio": [
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "."
+    ],
+    "sagittarius": [
+      "Ein Sternenzerstörer kreuzt die Ekliptik Ihres Zeichens! Ihre geplante Rebellion gegen das Finanzamt ist zum Scheitern verurteilt.",
+      "Auch an diesem Tag bleibt Ihre Chakra-Blüte verschlossen. Probieren Sie stattdessen Tinder oder Alkohol.",
+      "Wenn Sie sich umzingelt fühlen, blicken Sie in fünf Tagen bei Sonnenaufgang nach Osten. Rohan wird antworten.",
+      "Jupiter steht günstig für Selbstmedikation. Ignorieren Sie heute Beipackzettel und ärztliche Empfehlungen.",
+      "So wie die Sonne zum Merkur steht, können Sie auch heute nicht dem Einfluss der Gravitation entkommen. Springen Sie besser doch nicht von hohen Gebäuden.",
+      "Bei den Konstellationen haben Sie heute keine Chance, die Bundestagswahl zu gewinnen. Einen Strafzettel zu bekommen, dürfte leichter sein.",
+      "Das Lemma von Zorn sichert maximale Elemente, aber nicht maximales Glück. Ihre Ordnungsrelation ist dysfunktional.",
+      "Die astralen Kräfte des Mars treiben Sie an, wenn Sie bergab gehen. Nutzen Sie die Chance, um potentielle in kinetische Energie umzuwandeln.",
+      ".",
+      "."
+    ],
+    "capricorn": [
+      "Die günstige Konstellation von Jupiter und den Perseiden verleiht ihnen einen starken astralen Panzer. Aber Achtung: Dieser kann schnell von Lenkwaffen zerstört werden.",
+      "Das morgige Horoskop ist eigentlich gar nicht für Ihr Sternzeichen. Das macht aber keinen Unterschied, solange Sie daran glauben.",
+      "Ihr Geburtshoroskop zeigt Gefahr. Für die Detailanalyse benötige ich Ihre Kontovollmacht.",
+      "Wenn Sie weiterhin mit nicht-messbaren Mengen hantieren, wird das Auswahlaxiom Sie in überabzählbar viele Teile zerlegen.",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "."
+    ],
+    "aquarius": [
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "."
+    ],
+    "pisces": [
+      "Gönndalf-Jupiter im Trigon zu Pluto bedeutet: Geldwäsche ist kosmisch begünstigt. Die Behörden teilen diese astrale Einschätzung nicht.",
+      "Die Konstellation von Merkur und Hermes ist eindeutig: Falls Sie weiblich und alleinstehend sind, sollten Sie sich bei mir melden.",
+      "Eine Spinne wurde vom letzten Neumond in Ihre Wohnung gelockt. Wischen Sie Staub auf allen Regalen.",
+      "Der trigonische Aspekt ihres Zeichens zum Gönndalf Jupiter kann nur eines bedeuten: Versuchen Sie auch dieses Jahr, Steuern zu hinterziehen.",
+      "Jupiter stößt wiederholt gegen Uranus. Sie finden das deutlich amüsanter als Ihre Umgebung.",
+      "Der Jupiter tritt in das Haus des Löwen - eine ungünstige Planetenstellung! Zur Neutralisierung benötige ich Ihre Kreditkartendaten und die dreistellige Prüfziffer.",
+      "Schwarze Löcher krümmen die Raumzeit zu Ihren Ungunsten. Sie werden beim Wiegen einen oder wenige Kilo mehr sehen.",
+      "Venus nähert sich Uranus in einem provokanten Winkel. Ihre Mutter wird das nicht gutheißen.",
+      "Die Sonne steht in Opposition zum Mars. Das deutet auf unaufhaltsame Erderwärmung in den nächsten 50 Jahren hin. Genießen Sie aber weiterhin Kurzstreckenflüge.",
+      "Neptun herrscht über ihr Zeichen. Wenn Sie zu nah am Wasser gebaut sind, sollten Sie schwimmen lernen."
+    ]
+  }
+}

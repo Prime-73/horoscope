@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="page-title">Ihr Horoskop ✨</title>
+    <meta name="description" content="Your personalized cosmic horoscope prediction">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="additions.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="horoscope-page">
+            <a href="index.html" class="back-button">← Zurück zu den Zeichen</a>
+
+            <div class="horoscope-header">
+                <div class="zodiac-icon-large" id="sign-icon"></div>
+                <h1 id="sign-name"></h1>
+                <p class="dates" id="sign-dates"></p>
+            </div>
+
+            <div class="day-toggle">
+                <button class="toggle-btn active" data-day="today">HEUTE</button>
+                <button class="toggle-btn" data-day="tomorrow">MORGEN</button>
+            </div>
+
+            <div class="horoscope-content">
+                <div class="horoscope-text" id="horoscope-text">
+                    Ich ermittle Ihr Horoskop...
+                </div>
+
+                <div class="scores">
+                    <div class="score-item">
+                        <div class="score-label">💖 LIEBE</div>
+                        <div class="score-bar">
+                            <div class="score-fill" id="love-score"></div>
+                        </div>
+                        <div class="score-value" id="love-value">-</div>
+                        <div class="score-prediction" id="love-prediction">Empfange astrale Zeichen...</div>
+                    </div>
+
+                    <div class="score-item">
+                        <div class="score-label">💰 FINANZEN</div>
+                        <div class="score-bar">
+                            <div class="score-fill" id="finance-score"></div>
+                        </div>
+                        <div class="score-value" id="finance-value">-</div>
+                        <div class="score-prediction" id="finance-prediction">Empfange astrale Zeichen...</div>
+                    </div>
+
+                    <div class="score-item">
+                        <div class="score-label">🌿 GESUNDHEIT</div>
+                        <div class="score-bar">
+                            <div class="score-fill" id="health-score"></div>
+                        </div>
+                        <div class="score-value" id="health-value">-</div>
+                        <div class="score-prediction" id="health-prediction">Empfange astrale Zeichen...</div>
+                    </div>
+                </div>
+            </div>
+
+            <footer class="horoscope-footer">
+                <p>✨ Möge die Macht mit dir sein ✨</p>
+            </footer>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
