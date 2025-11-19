@@ -5,13 +5,17 @@
         "text": "Die Liebe sucht Sie, aber sie hat kein Empfang. Machen Sie durch lautes Schreien auf sich aufmerksam.",
         "value": 8
       },
+	  {
+        "text": "Ein Fremder lächelt Sie heute an. Das ist mehr Zuneigung, als ich sonst bekomme.",
+        "value": 8
+      },
       {
         "text": "Romantik ist möglich, aber auch spontane Selbstentzündung. Beides gleich wahrscheinlich.",
         "value": 5
       },
       {
         "text": "Ihre Seelenverwandte ist heute mit jemand anderem verabredet.",
-        "value": 3
+        "value": 2
       },
       {
         "text": "Romantisch bleibt es trostlos. Die Sterne empfehlen: Senken Sie Ihre Standards oder probieren Sie MDMA statt Ketamin.",
@@ -20,6 +24,10 @@
       {
         "text": "Der Jupiter steht im Sternzeichen Jungfrau. Das muss nicht weiter erklärt werden.",
         "value": 1
+      },
+	  {
+        "text": "In der Liebe passiert bei Ihnen, wie schon immer, nicht besonders viel. Versuchen Sie es mit Ketamin.",
+        "value": 3
       },
       {
         "text": "Liebe muss nicht zwischenmenschlich sein. Sie können zum Beispiel auch Bayern lieben.",
@@ -32,6 +40,14 @@
       {
         "text": "Sie haben heute beste Chancen bei Steinböcken. Nehmen Sie sich dabei vor Tierschützern in Acht.",
         "value": 9
+      },
+	  {
+        "text": "Venus betritt Ihr Haus durch den Hintereingang. Das ist sowohl zweideutig als auch Hausfriedensbruch, aber ein vielversprechendes Omen.",
+        "value": 9
+      },
+	  {
+        "text": "Venus steht im Siebten Haus: ein Segen für Ihr Liebesleben, wenn Sie mindestens sieben Immobilien haben.",
+        "value": 7
       },
       {
         "text": "Die Liebe liegt wie Pollen in der Luft. Sie sind gegen beides allergisch.",
@@ -79,17 +95,45 @@
         "text": "Setzen Sie auf die Lottozahlen 7, 12, 21, 32, 37 und 45 mit Superzahl 3.",
         "value": 10
       },
+	  {
+        "text": "Ralf Schumacher möchte Ihnen Ihr Auto abkaufen. Vergessen Sie nicht, vorher die Kinder aus dem Kofferraum zu holen.",
+        "value": 9
+      },
       {
         "text": "Die Sterne raten Ihnen zum Kauf von gehebelten Derivaten. Rechtlicher Hinweis: Hiermit schließe ich sämtliche Haftung aus.",
         "value": 9
+      },
+	  {
+        "text": "Neptun verschleiert Ihr Einkommen, was steuerlich günstig sein kann.",
+        "value": 7
+      },
+	  {
+        "text": "Die astralen Konstellationen deuten auf Reichtum für Großanleger. Werden Sie auch einer.",
+        "value": 7
+      },
+	  {
+        "text": "Der listige Skorpion rät Ihnen, beim Trinkgeld negative Zahlen anzugeben. Es könnte sich lohnen.",
+        "value": 7
+      },
+	  {
+        "text": "Der Sturz des Mars aus der Waage verlangt schnelles Handeln: Verstecken Sie Ihr Geld im Garten. Erlauben Sie mir zudem eine Prüfung der astralen Abschirmung.",
+        "value": 4
       },
       {
         "text": "Ungünstige Konstellationen bedrohen Ihr Gehalt. Überweisen Sie es mir prophylaktisch, damit ich es reinigen kann.",
         "value": 1
       },
+	  {
+        "text": "Die Konstellation der Planeten richtet sich antiparallel zu Ihrem Dünndarm aus. Mehr Zeit auf dem Abort einplanen.",
+        "value": 1
+      },
       {
         "text": "Wenn Sie im Jahr 2008 einige Bitcoin gekauft haben, können Sie sich dank Jupiter heute über finanziellen Wohlstand freuen.",
         "value": 8
+      },
+	  {
+        "text": "Neptun begünstigt Hypochondrie. Möglicherweise leiden Sie zudem unter seltenen, oft fehldiagnostizierten Krankheiten.",
+        "value": 2
       },
       {
         "text": "Wenn Sie heute wieder einkaufen gehen, wird sich dies negativ auf Ihr Vermögen auswirken.",
@@ -141,12 +185,24 @@
         "text": "Ihre Zellen teilen sich unkontrolliert. Machen Sie sich keine Sorgen, solange Sie genug Globuli nehmen.",
         "value": 10
       },
+	  {
+        "text": "Die Sonne im Wassermann heilt heute Autismus, Krebs und Trisomie 21. Sofern Ihre Chakren nicht durch Impfungen perturbiert wurden.",
+        "value": 9
+      },
       {
         "text": "Merkur verdoppelt Ihre Gedanken, was zu Schizophrenie führen kann. Der Vorteil: Es reicht, wenn einer von Ihnen zur Therapie geht.",
         "value": 8
       },
       {
         "text": "Die Deklinationsparallele von Steinbock und Waage kann auch Ihnen Kopfschmerzen bereiten, wenn Sie vor sechs Uhr morgens aufstehen.",
+        "value": 7
+      },
+	  {
+        "text": "Lachen ist die beste Medizin. Der Merkur im Großen Wagen raubt Ihnen aber den Humor, sofern vorhanden.",
+        "value": 4
+      },
+	  {
+        "text": "Der Neptun im Großen Bären fordert Sie auf, sich zehnmal im Kreis zu drehen. Sie erfreuen sich bis auf gelegentliche Schwindelanfälle bester Gesundheit.",
         "value": 7
       },
       {
@@ -167,6 +223,10 @@
       },
       {
         "text": "Auch bei Wohltätern wie Jupiter im Haus der Zwillinge ist heute kein guter Tag, um Heroin zu nehmen.",
+        "value": 3
+      },
+	  {
+        "text": "Möglicherweise beunruhigend: Mars im fünften Haus erhöht Ihre Körpertemperatur um 0,3 °C.",
         "value": 3
       },
       {
@@ -192,9 +252,9 @@
       "Merkur steht oriental und gemahnt zu mehr Ehrlichkeit. Denn: Wer anderen einen Bären aufbindet, dem droht das Strafgesetzbuch.",
       "Der große Wagen fährt in den Saturn. Stehen Sie deshalb nicht zu nah an den Schaufenstern, oder besser: gehen Sie stattdessen in den MediaMarkt.",
       "Ihr Schutzengel hat heute frei. Ein Praktikant übernimmt. Daher: vorausschauend fahren.",
-      ".",
-      ".",
-      ".",
+      "Ihre Impulsivität ist charmant, führt aber statistisch gesehen häufiger zu Haftstrafen.",
+      "Merkur steht im dritten und Mars im elften Haus. Beziehen Sie sich also auf 3. Mose 11.",
+      "Der aszendierende Gerichtsvollzieher steht heute Ihrem Drang nach Freiheit entgegen.",
       ".",
       ".",
       ".",
@@ -204,9 +264,9 @@
       "Ihr Chakra schwingt auf der Frequenz von Ultraschall. Fledermäuse finden Sie abstoßend und werden Sie meiden.",
       "Ihr astrales Tier ist ein Nacktmull. Exhibitionismus würde Ihnen Karma bringen, aber auch eine Anzeige.",
       "Merkur schenkt Ihnen heute doppelte Energie zur Prokrastination. Leider steht der Algorithmus im Exil und zeigt Ihnen nur langweilige Shorts.",
-      ".",
-      ".",
-      ".",
+      "Ihre Erdverbundenheit kann sich auch dadurch ausdrücken, dass Ihnen der Boden unerwartet näher kommt. Tragen Sie einen Helm.",
+      "Denken Sie immer daran: Das Licht am Ende des Tunnels kann auch ein Zug sein.",
+      "Ihre astrale Signatur ähnelt einem Haftbefehl. Meiden Sie Grenzkontrollen.",
       ".",
       ".",
       ".",
@@ -216,13 +276,13 @@
       "Vorsicht vor Wohlordnungen auf Potenzmengenhierarchien! Das Lemma von Zorn führt zu maximalen Ketten und sozialer Isolation.",
       "Die Zwillinge sind eindeutig unmissverständlich: Sie werden heute etwas essen. Falls nicht, wird sich das Problem bald von selbst lösen.",
       "Die Konstellation von Mond und Merkur deutet darauf hin, dass Sie Luft zum Atmen benötigen. Meiden Sie das Vakuum.",
-      ".",
-      ".",
-      ".",
-      ".",
-      ".",
-      ".",
-      "."
+      "Eine feindselige Zusammenkunft von Mars und Jupiter deutet sich an. Wählen Sie eine Seite.",
+      "Hoffentlich haben Sie gestern nicht auf Jupiter gesetzt, der 0:2 gegen Mars verloren hat. Für Sie bedeutet das Gelenkschmerzen.",
+      "Überraschenderweise holen die Jupitermonde zum Gegenangriff aus. Die Spannung lässt Sie heute nicht zur Ruhe kommen.",
+      "Schlechte Karten für Mars, der nun von allen Seiten belagert ist. Machen Sie heute keine Gefangenen.",
+      "Beim ersten Hahnenkrähen trifft die Kavallerie Rohans ein. Sie müssen sich die Szene auf YouTube anschauen. Dies kann Gänsehaut bewirken.",
+      "Jupiter wurde endgültig zurückgeschlagen. Treten Sie heute in keine Schützenvereine ein.",
+      "Wie schon Sophokles wusste: Wer den Stift der Handgranate zieht, der muss auch gut werfen können."
     ],
     "cancer": [
       "Venus und Lackmus rügen die Vier Aposteln. Kein guter Tag zum Sündigen.",
@@ -230,9 +290,9 @@
       "Der Tierschutz hat Sie schon länger unter Verdacht. Lassen Sie heute die Katze aus dem Sack.",
       "Wenn Saturn in den Wassermann wandert, könnte sich ein Prinz aus Nigeria bei Ihnen melden. Er wird Ihnen Glück und Reichtum bescheren.",
       "Das Universum versucht heute wieder, Entropie zu maximieren. Sie sollten es ebenfalls tun, aber Obacht: Das Herbeiführen von Kernexplosionen ist strafbar.",
-      ".",
-      "D.",
-      ".",
+      "Der Mond gebietet weniger Rücksicht auf Geringverdiener. Nehmen Sie Ihnen die Pfandflaschen weg.",
+      "Der aszendierende Onkologe bringt schlechte Nachrichten. Meiden Sie Strahlung.",
+      "Neptun sorgt für geistige Flexibilität. Nutzen Sie diese, um Argumenten auszuweichen und an Ihrem Glauben festzuhalten.",
       ".",
       "."
     ],
@@ -244,7 +304,7 @@
       ".",
       ".",
       ".",
-      ".",
+      "Zum Schutz gegen schädliche Konstellationen müssen Sie mir ihr Vermögen übertragen.",
       ".",
       "."
     ],
@@ -252,9 +312,9 @@
       "Neptun wandert wieder in Ihr Haus. Da hilft auch die Unterlassungserklärung nichts. Sie müssen ihn zwangsräumen lassen.",
       "Die Konjunktion von Saturn und seinem Ring fordert größere Ordnung. Legen Sie Ihre Gegenstände parallel oder in rechten Winkeln aus.",
       "Wenden Sie heute Ihre Erkenntnisse aus der Topologie auf die Quantenchromodynamik an. Das zeigt Ihnen die Grenzen Ihrer Intelligenz.",
-      ".",
-      ".",
-      ".",
+      "Ihr astrales Karma ist gefährdet. Meiden Sie die Horte des Lasters: Spielhallen, Arbeitsämter, CDU-Parteizentralen.",
+      "Der Klimawandel kann Ihnen nichts anhaben. Wenn Sie in Ihrem Porsche Cabrio fahren, kühlt Sie der Fahrtwind.",
+      "Die Realität bedrängt Sie unter feindlicher Konstellation des Uranus. Machen Sie sich zunutze, dass Alkohol auch tagsüber konsumiert werden kann.",
       ".",
       ".",
       ".",
@@ -273,11 +333,11 @@
       "Der Mond ruft Sie aus dem Subkutanen. Das bedeutet, dass Sie ein Ass im Ärmel haben: spielen Sie also heute Poker."
     ],
     "scorpio": [
+      "Die Gravitation übt einen verstärkten Einfluss auf Sie aus. Jupiter ist heute mal kein Gönndalf.",
+      "Die Konjunktion des Uranus zum Haltesignal lässt Ihre Züge nur mit einiger Verspätung fahren.",
+      "Vermutlich gewinnen Sie nicht im Lotto. Dafür werden Sie demnächst an der Front gebraucht.",
       ".",
-      ".",
-      ".",
-      ".",
-      ".",
+      "Ihre astrale Aura riecht nach nassem Moos, was Ihnen den Zutritt zu Aquarien erschweren kann.",
       ".",
       ".",
       ".",
@@ -309,10 +369,10 @@
       "."
     ],
     "aquarius": [
+      "Wenn Sie nicht mit dem Auswahlaxiom aufhören, droht Ihnen ein Banach-Tarski-Paradoxon.",
+      "Sie können erheblich beim Brandschutz sparen. Kündigen Sie ihre Versicherungen.",
       ".",
-      ".",
-      ".",
-      ".",
+      "Wenn sich der Mond zurückzieht, sitzen Sie auf dem Trockenen. Deshalb: Bleiben Sie hydriert!",
       ".",
       ".",
       ".",
