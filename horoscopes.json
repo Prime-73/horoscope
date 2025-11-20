@@ -123,10 +123,6 @@
         "text": "Ungünstige Konstellationen bedrohen Ihr Gehalt. Überweisen Sie es mir prophylaktisch, damit ich es reinigen kann.",
         "value": 1
       },
-	  {
-        "text": "Die Konstellation der Planeten richtet sich antiparallel zu Ihrem Dünndarm aus. Mehr Zeit auf dem Abort einplanen.",
-        "value": 1
-      },
       {
         "text": "Wenn Sie im Jahr 2008 einige Bitcoin gekauft haben, können Sie sich dank Jupiter heute über finanziellen Wohlstand freuen.",
         "value": 8
@@ -205,6 +201,10 @@
         "text": "Der Neptun im Großen Bären fordert Sie auf, sich zehnmal im Kreis zu drehen. Sie erfreuen sich bis auf gelegentliche Schwindelanfälle bester Gesundheit.",
         "value": 7
       },
+	  {
+        "text": "Die Konstellation der Planeten richtet sich antiparallel zu Ihrem Dünndarm aus. Mehr Zeit auf dem Abort einplanen.",
+        "value": 1
+      },
       {
         "text": "Der Morgenstern geht zwischen Frankfurter Hauptbahnhof und Commerzbank auf. Ein guter Tag, um einen Venenzugang zu legen.",
         "value": 9
@@ -225,9 +225,13 @@
         "text": "Auch bei Wohltätern wie Jupiter im Haus der Zwillinge ist heute kein guter Tag, um Heroin zu nehmen.",
         "value": 3
       },
-	  {
+	    {
         "text": "Möglicherweise beunruhigend: Mars im fünften Haus erhöht Ihre Körpertemperatur um 0,3 °C.",
         "value": 3
+      },
+	    {
+        "text": "Besonders prominent prangt das Zeichen Krebs am Nachthimmel: Meiden Sie ionisierende Strahlung. Gehen Sie zur Vorsorgeuntersuchung.",
+        "value": 4
       },
       {
         "text": "Da der Saturn durch seinen Gegenspieler geschwächt ist, sind Löwen Ihnen nicht wohlgesonnen. Eine Safari könnte mit Fleischwunden enden.",
@@ -255,7 +259,7 @@
       "Ihre Impulsivität ist charmant, führt aber statistisch gesehen häufiger zu Haftstrafen.",
       "Merkur steht im dritten und Mars im elften Haus. Beziehen Sie sich also auf 3. Mose 11.",
       "Der aszendierende Gerichtsvollzieher steht heute Ihrem Drang nach Freiheit entgegen.",
-      ".",
+      "Neptun und Uranus kommutieren heute zu einem abelschen Ring. Für Sie bedeutet das hauptsächlich erhöhte axiomatische Sicherheit im Umgang mit Addition und Multiplikation.",
       ".",
       ".",
       "."
@@ -293,8 +297,8 @@
       "Der Mond gebietet weniger Rücksicht auf Geringverdiener. Nehmen Sie Ihnen die Pfandflaschen weg.",
       "Der aszendierende Onkologe bringt schlechte Nachrichten. Meiden Sie Strahlung.",
       "Neptun sorgt für geistige Flexibilität. Nutzen Sie diese, um Argumenten auszuweichen und an Ihrem Glauben festzuhalten.",
-      ".",
-      "."
+      "Der Mars wechselt zurück von der Judikative in die Exekutive. Das beweist die Hinrichtung Ihres Lemmas.",
+      "Der wohltäterische Merkur im Zehnten Haus schenkt Ihnen etwas mehr Würde. Das haben Sie schon länger nötig."
     ],
     "leo": [
       "In seiner retrogradierenden Rektaszension möchte Merkur Ihnen ein Zeichen senden. Lassen Sie insbesondere nachmittags Ihren WLAN-Router eingeschaltet.",
@@ -353,8 +357,8 @@
       "Bei den Konstellationen haben Sie heute keine Chance, die Bundestagswahl zu gewinnen. Einen Strafzettel zu bekommen, dürfte leichter sein.",
       "Das Lemma von Zorn sichert maximale Elemente, aber nicht maximales Glück. Ihre Ordnungsrelation ist dysfunktional.",
       "Die astralen Kräfte des Mars treiben Sie an, wenn Sie bergab gehen. Nutzen Sie die Chance, um potentielle in kinetische Energie umzuwandeln.",
-      ".",
-      "."
+      "Der kriegerische Mars verliert durch Berührung des Uranus an Würde. Meiden Sie offene Feldschlachten.",
+      "Saturn trägt seinen Ring heute in die Gefilde Mordors. Sie müssen keine Angst mehr vor nächtlichen Ork-Überfällen haben."
     ],
     "capricorn": [
       "Die günstige Konstellation von Jupiter und den Perseiden verleiht ihnen einen starken astralen Panzer. Aber Achtung: Dieser kann schnell von Lenkwaffen zerstört werden.",
@@ -371,7 +375,7 @@
     "aquarius": [
       "Wenn Sie nicht mit dem Auswahlaxiom aufhören, droht Ihnen ein Banach-Tarski-Paradoxon.",
       "Sie können erheblich beim Brandschutz sparen. Kündigen Sie ihre Versicherungen.",
-      ".",
+      "Die Sonne geht heute im Osten auf. Kaufen Sie daher eiligst zwei Laibe Meisterbrot mit Saaten (750g) für je 1,99 bei Lidl.",
       "Wenn sich der Mond zurückzieht, sitzen Sie auf dem Trockenen. Deshalb: Bleiben Sie hydriert!",
       ".",
       ".",

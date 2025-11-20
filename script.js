@@ -128,7 +128,7 @@ function displayHoroscope(day) {
     document.getElementById('sign-icon').textContent = signData.icon;
     document.getElementById('sign-name').textContent = signData.name;
     document.getElementById('sign-dates').textContent = signData.dates;
-    document.getElementById('page-title').textContent = `${signData.name} Horoscope ✨`;
+    document.getElementById('page-title').textContent = `Horoskop für ${signData.name} ✨`;
 
     // Calculate date
     const date = new Date();
