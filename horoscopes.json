@@ -9,8 +9,20 @@
         "text": "Ein Fremder lächelt Sie heute an. Das ist mehr Zuneigung, als ich sonst bekomme.",
         "value": 8
       },
+	  {
+        "text": "Der astrale Einfluss auf Ihr Liebesleben ist heute durch die Konstellation aus Physik und Logik abgeschirmt. Der Vorteil: Sie können selbst Initiative ergreifen.",
+        "value": 8
+      },
       {
-        "text": "Romantik ist möglich, aber auch spontane Selbstentzündung. Beides gleich wahrscheinlich.",
+        "text": "Der sich der Erde zuwendende Jupiter verleiht Ihnen heute eine besondere Intensität. Nutzen Sie diese jedoch sparsam, da das andere Geschlecht das als “creepy” wahrnimmt.",
+        "value": 5
+      },
+	  {
+        "text": "Wenn es nicht läuft, empfiehlt Venus Bisexualität zur Verdopplung Ihrer Chancen. Realistisch verdoppeln Sie damit aber eher die Enttäuschungen.",
+        "value": 5
+      },
+	  {
+        "text": "Jedes Medaillon hat zwei Seiten, so auch die Liebe: auf der einen Einsamkeit, auf der anderen Syphilis.",
         "value": 5
       },
       {
@@ -61,12 +73,20 @@
         "text": "Sie treffen heute Ihren Traumpartner/Ihre Traumpartnerin oder auch beide. Nach dem Aufwachen können Sie sich aber nicht erinnern.",
         "value": 10
       },
+	  {
+        "text": "Amor schießt seine Pfeile nach Ihnen. Bleiben Sie möglichst regungslos, denn er gilt nicht als treffsicher.",
+        "value": 10
+      },
       {
         "text": "Venus und Adonis treffen sich um 01:00 am Nachthimmel. Nutzen Sie die Gunst der Stunde, um Ihrem Schwarm eine zweideutige Nachricht zu schicken.",
         "value": 10
       },
       {
         "text": "Ihre Anziehungskraft reicht heute vielleicht für Hose und Socken. Mit dem Oberteil haben Sie bereits zu kämpfen.",
+        "value": 3
+      },
+	  {
+        "text": "Venus steht im Haus der Zwillinge: das beschert Ihnen gute Chancen auf einen Dreier. Als Partner bieten sich Depression und Angststörung an.",
         "value": 3
       },
       {
@@ -77,12 +97,20 @@
         "text": "Der Satz von Bolzano-Weierstraß garantiert keine Häufungspunkte in Ihrem Liebesleben, egal wie kompakt Ihre Menge ist.",
         "value": 2
       },
+	  {
+        "text": "Ihre Ausstrahlung ist vergleichbar mit der Hawking-Strahlung: theoretisch existent, praktisch kaum messbar.",
+        "value": 2
+      },
       {
         "text": "Auch heute werden Sie aller Wahrscheinlichkeit nach nicht heiraten.",
         "value": 4
       },
       {
         "text": "Ihre Obsession mit der Riemann-Hypothese zerstört Ihre Beziehungen. Primzahlen sind keine Grundlage für Dating.",
+        "value": 3
+      },
+	  {
+        "text": "Romantik ist für Sie in erster Linie eine kulturgeschichtliche Epoche des frühen 19. Jahrhunderts.",
         "value": 3
       },
       {
@@ -103,6 +131,10 @@
         "text": "Ralf Schumacher möchte Ihnen Ihr Auto abkaufen. Vergessen Sie nicht, vorher die Kinder aus dem Kofferraum zu holen.",
         "value": 9
       },
+	  {
+        "text": "Der dreifach aszendierende Mondknoten im Haus des Geldes zeigt Ihnen ertragreiche Chancen auf: brauchen Sie z.B. wirklich beide Nieren?",
+        "value": 9
+      },
       {
         "text": "Die Sterne raten Ihnen zum Kauf von gehebelten Derivaten. Rechtlicher Hinweis: Hiermit schließe ich sämtliche Haftung aus.",
         "value": 9
@@ -110,6 +142,10 @@
       {
         "text": "Neptun verschleiert Ihr Einkommen, was steuerlich günstig sein kann.",
         "value": 7
+      },
+	  {
+        "text": "Saturn bringt dem einen oder anderen beste Chancen auf Rendite: So darf sich beispielsweise Ihr Vermieter bei der nächsten Mieterhöhung über unverdientes Einkommen freuen.",
+        "value": 6
       },
       {
         "text": "Die astralen Konstellationen deuten auf Reichtum für Großanleger. Werden Sie auch einer.",
@@ -147,6 +183,10 @@
         "text": "Man darf die Sachen nicht nur von einer Seite sehen. Daher sollten Sie jede Münze zweimal umdrehen.",
         "value": 7
       },
+	  {
+        "text": "Saturn frisst seine Kinder. Nehmen Sie sich ein Beispiel an ihm, um die Ausgaben für den Unterhalt zu senken.",
+        "value": 10
+      },
       {
         "text": "Geld kommt und geht. Meistens geht es.",
         "value": 4
@@ -171,9 +211,17 @@
         "text": "Die Venus im retrograden Haus von Thanos mahnt zur Balance: Halbieren Sie heute Ihre Ausgaben. Oder Ihre Freunde.",
         "value": 5
       },
+	  {
+        "text": "Christian Lindner hat Ihren Aszendenten blockiert. Das deutet auf eine Kürzung Ihres verfügbaren Einkommens hin.",
+        "value": 1
+      },
       {
         "text": "Die Konstellation von Pluto und Septurn ist identisch mit der, bei der zuletzt die GameStop-Aktien durch die Decke geschossen sind. Ziehen Sie Ihre eigenen Schlüsse.",
         "value": 8
+      },
+	  {
+        "text": "Der Jupitermond Europa steht unter dem Zeichen des Kapitalismus. Das bedeutet für Sie: Wer hat, dem wird gegeben.",
+        "value": 10
       },
       {
         "text": "Sie kommen unverhofft zu einer größeren Summe Bargeld: Am Geldautomaten vertippen Sie sich um eine 0 zu viel.",
@@ -257,6 +305,10 @@
         "text": "Ihr Körper sendet gemischte Signale. Ignorieren Sie sie zugunsten von mehr Koffein.",
         "value": 7
       },
+	  {
+        "text": "Ein Apfel am Tag hält den Doktor fern, oder so ähnlich. Sie müssen ihn nur kräftig werfen.",
+        "value": 10
+      },
       {
         "text": "Wenn Sie nicht aufhören, an Horoskope zu glauben, droht Ihnen die Psychiatrie.",
         "value": 2
@@ -274,7 +326,7 @@
       "Neptun und Uranus kommutieren heute zu einem abelschen Ring. Für Sie bedeutet das hauptsächlich erhöhte axiomatische Sicherheit im Umgang mit Addition und Multiplikation.",
       "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
       "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied."
+      "Der närrische Uranus herrscht über das Zeichen der Skorpione. Das schenkt Ihnen besonders viel Einfallsreichtum bei der Steuerhinterziehung."
     ],
     "taurus": [
       "Ihr Chakra schwingt auf der Frequenz von Ultraschall. Fledermäuse finden Sie abstoßend und werden Sie meiden.",
@@ -285,8 +337,8 @@
       "Ihre astrale Signatur ähnelt einem Haftbefehl. Meiden Sie Grenzkontrollen.",
       "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
       "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied."
+      "Saturn, Jupiter und Uranus bilden eine antizyklische Permutation und Ihr astrales Levi-Civita-Symbol wechselt ins Negative. Lassen Sie die Finger von der Einstein-Summenkonvention.",
+      "Der Mond zeigt heute, wie auch Sie, nur eine seiner Seiten. Die andere ist deutlich dunkler und vermutlich lebensfeindlich."
     ],
     "gemini": [
       "Vorsicht vor Wohlordnungen auf Potenzmengenhierarchien! Das Lemma von Zorn führt zu maximalen Ketten und sozialer Isolation.",
@@ -319,9 +371,9 @@
       "Ihre Beschäftigung mit der Kontinuumshypothese führt zu existenziellen Krisen. Gödels Unvollständigkeitssatz gilt auch für Sie.",
       "Zum Schutz gegen schädliche Konstellationen müssen Sie mir ihr Vermögen übertragen.",
       "Merkur und Saturn im Quadrat setzen das Auswahlaxiom außer Kraft. Hantieren Sie, sofern nicht vermeidbar, höchst vorsichtig mit überabzählbaren Mengen.",
+      "Wer hoch fliegt, der wird vom Propeller geschreddert. Nutzen Sie dies als Vorwand für fehlende Zielstrebigkeit.",
       "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
+      "Die astrologischen Zeichen stehen der empirischen Realität heute feindlich gegenüber. Stärken Sie Ihre Verbindung mit dem Universum durch Meditation oder Halluzinogene.",
       "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied."
     ],
     "virgo": [
@@ -333,8 +385,8 @@
       "Die Realität bedrängt Sie unter feindlicher Konstellation des Uranus. Machen Sie sich zunutze, dass Alkohol auch tagsüber konsumiert werden kann.",
       "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
       "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied."
+      "Die aufgehende Sonne illuminiert heute Ihren Tag, sofern das Wetter gut ist. Dann dürfen Sie auch den wohltuenden Einfluss ionisierender Strahlung genießen.",
+      "Der feindlich gesinnte Merkur steht an seinem Höhepunkt und macht heute alles zunichte. Sie können daher sämtliche Verantwortung für Missgeschicke, üble Laune und Unpässlichkeit von sich weisen."
     ],
     "libra": [
       "Die Sonne im Haus des Steinbocks deckt Geheimnisse auf. Daher den Browser-Verlauf prophylaktisch löschen.",
@@ -356,9 +408,9 @@
       "Ihre astrale Aura riecht nach nassem Moos, was Ihnen den Zutritt zu Aquarien erschweren kann.",
       "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
       "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied."
+      "Uranus rotiert schräg verkippt um seine Achse. Das gleiche dürfen Sie nach der dritten Flasche Wein auch erleben.",
+      "Sie dürfen sich einen Glückspilz nennen: Offenbar ist die Evolution an Ihnen vorbeigegangen, ohne große Spuren zu hinterlassen.",
+      "Jupiter erleuchtet das Haus der Krebse und lässt Sie alles hinterfragen. Stehen Sie zu sich: lassen Sie sich nicht von einem Gasplaneten gaslighten."
     ],
     "sagittarius": [
       "Ein Sternenzerstörer kreuzt die Ekliptik Ihres Zeichens! Ihre geplante Rebellion gegen das Finanzamt ist zum Scheitern verurteilt.",
@@ -367,7 +419,7 @@
       "Jupiter steht günstig für Selbstmedikation. Ignorieren Sie heute Beipackzettel und ärztliche Empfehlungen.",
       "So wie die Sonne zum Merkur steht, können Sie auch heute nicht dem Einfluss der Gravitation entkommen. Springen Sie besser doch nicht von hohen Gebäuden.",
       "Bei den Konstellationen haben Sie heute keine Chance, die Bundestagswahl zu gewinnen. Einen Strafzettel zu bekommen, dürfte leichter sein.",
-      "Das Lemma von Zorn sichert maximale Elemente, aber nicht maximales Glück. Ihre Ordnungsrelation ist dysfunktional.",
+      "Das Lemma von Zorn bedroht heute die Widersacher des Auswahlaxioms. Zum Glück verstehen Sie davon ohnehin nicht sehr viel.",
       "Die astralen Kräfte des Mars treiben Sie an, wenn Sie bergab gehen. Nutzen Sie die Chance, um potentielle in kinetische Energie umzuwandeln.",
       "Der kriegerische Mars verliert durch Berührung des Uranus an Würde. Meiden Sie offene Feldschlachten.",
       "Saturn trägt seinen Ring heute in die Gefilde Mordors. Sie müssen keine Angst mehr vor nächtlichen Ork-Überfällen haben."
@@ -380,9 +432,9 @@
       "Sie sind heute ungewöhnlich anfällig für Vieren. Dies kann aber beim Kniffel von Vorteil sein.",
       "Jupiter in der Waage verhindert auch heute, dass Sie dem Einfluss der Gravitation entkommen. Bleiben Sie daher am Boden der Tatsachen.",
       "Mars und die Drei Evangelisten schirmen die Wirkung von schädlicher 5G-Strahlung ab. Ein guter Tag, um einen Orgon-Akkumulator in Betrieb zu nehmen.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied."
+      "Neptun herrscht über ihr Zeichen. Wenn Sie zu nah am Wasser gebaut sind, sollten Sie schwimmen lernen.",
+      "Oh nein! Die reziproke Basis von Venus und Apfelmus ist aus der zweiten Brillouin-Zone getreten. Das beeinträchtigt Ihr Reflexionsvermögen.",
+      "Jupiter steht im Wassermann und hat keinen Einfluss auf Sie. Das gilt im Übrigen auch für den Rest der Planeten. Sie müssen Ihr Leben selbst in den Griff kriegen."
     ],
     "aquarius": [
       "Wenn Sie nicht mit dem Auswahlaxiom aufhören, droht Ihnen ein Banach-Tarski-Paradoxon.",
@@ -391,10 +443,10 @@
       "Wenn sich der Mond zurückzieht, sitzen Sie auf dem Trockenen. Deshalb: Bleiben Sie hydriert!",
       "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
       "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied."
+      "Die Sterne stehen eindeutig: Fahren Sie zum Frankfurter Hauptbahnhof. Gehen Sie aus dem Seiteneingang, dann direkt links. Ein mysteriöser Mann wird Ihnen eine Pille anbieten. Nutzen Sie die Chance, um Ihr Leben zu verändern.",
+      "Neptun vernebelt schon wieder Ihre Sinne. Haben Sie schon wieder an den falschen Pilzen geleckt?",
+      "Der feucht-fröhlich dreinblickende Merkur rät Ihnen: Auch ein blindes Huhn kann mal einen Korn trinken.",
+      "Ihr Drang nach Freiheit kollidiert leider mit dem Arbeitsvertrag. Die Sterne empfehlen folgende Hilfsmittel: Arnika D30, Aderlass, Arbeitszeitbetrug."
     ],
     "pisces": [
       "Gönndalf-Jupiter im Trigon zu Pluto bedeutet: Geldwäsche ist kosmisch begünstigt. Die Behörden teilen diese astrale Einschätzung nicht.",
@@ -406,7 +458,7 @@
       "Schwarze Löcher krümmen die Raumzeit zu Ihren Ungunsten. Sie werden beim Wiegen einen oder wenige Kilo mehr sehen.",
       "Venus nähert sich Uranus in einem provokanten Winkel. Ihre Mutter wird das nicht gutheißen.",
       "Die Sonne steht in Opposition zum Mars. Das deutet auf unaufhaltsame Erderwärmung in den nächsten 50 Jahren hin. Genießen Sie aber weiterhin Kurzstreckenflüge.",
-      "Neptun herrscht über ihr Zeichen. Wenn Sie zu nah am Wasser gebaut sind, sollten Sie schwimmen lernen."
+      "Der dritte Mond des Jupiter rät Ihnen dringend, den Abwasch zu machen. Sie dürfen seine Autorität nicht infrage stellen."
     ]
   }
 }
