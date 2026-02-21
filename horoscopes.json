@@ -168,10 +168,6 @@
         "value": 8
       },
       {
-        "text": "Neptun begünstigt Hypochondrie. Möglicherweise leiden Sie zudem unter seltenen, oft fehldiagnostizierten Krankheiten.",
-        "value": 2
-      },
-      {
         "text": "Wenn Sie heute wieder einkaufen gehen, wird sich dies negativ auf Ihr Vermögen auswirken.",
         "value": 5
       },
@@ -182,6 +178,10 @@
       {
         "text": "Man darf die Sachen nicht nur von einer Seite sehen. Daher sollten Sie jede Münze zweimal umdrehen.",
         "value": 7
+      },
+	  {
+        "text": "Selbst wenn Ihre Bonität nur halb so ansehnlich wäre wie Sie, würde man Ihnen Kredit mit Negativzinsen gewähren.",
+        "value": 10
       },
 	  {
         "text": "Saturn frisst seine Kinder. Nehmen Sie sich ein Beispiel an ihm, um die Ausgaben für den Unterhalt zu senken.",
@@ -220,12 +220,20 @@
         "value": 8
       },
 	  {
+        "text": "Wenn das Wörtchen \"Einkommensteuer\" nicht wär, wären Sie ein Millionär.",
+        "value": 6
+      },
+	  {
         "text": "Der Jupitermond Europa steht unter dem Zeichen des Kapitalismus. Das bedeutet für Sie: Wer hat, dem wird gegeben.",
         "value": 10
       },
       {
         "text": "Sie kommen unverhofft zu einer größeren Summe Bargeld: Am Geldautomaten vertippen Sie sich um eine 0 zu viel.",
         "value": 9
+      },
+      {
+        "text": "Neptun begünstigt Hypochondrie. Möglicherweise leiden Sie zudem unter seltenen, oft fehldiagnostizierten Krankheiten.",
+        "value": 2
       }
     ],
     "health": [
@@ -263,6 +271,10 @@
       },
       {
         "text": "Körperlich geht es Ihnen gut, solange Sie gesund sind. Dem tut auch die Apostel keinen Abbruch.",
+        "value": 10
+      },
+	  {
+        "text": "Dass jemand wie Sie sich nicht bester Gesundheit erfreut, wäre eine kosmische Ungerechtigkeit.",
         "value": 10
       },
       {
@@ -324,8 +336,8 @@
       "Merkur steht im dritten und Mars im elften Haus. Beziehen Sie sich also auf 3. Mose 11.",
       "Der aszendierende Gerichtsvollzieher steht heute Ihrem Drang nach Freiheit entgegen.",
       "Neptun und Uranus kommutieren heute zu einem abelschen Ring. Für Sie bedeutet das hauptsächlich erhöhte axiomatische Sicherheit im Umgang mit Addition und Multiplikation.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
+      "Der Boltzmannfaktor steht ungünstig zwischen Titan und Europa. Sie können heute nur niedrige Energieniveaus besetzen.",
+      "Ihr Aszendent wird würdelos in krummlinige Koordinaten transformiert. Passen Sie bei Rotationen auf, diese werden hochgradig nicht-trivial.",
       "Der närrische Uranus herrscht über das Zeichen der Skorpione. Das schenkt Ihnen besonders viel Einfallsreichtum bei der Steuerhinterziehung."
     ],
     "taurus": [
@@ -335,7 +347,7 @@
       "Ihre Erdverbundenheit kann sich auch dadurch ausdrücken, dass Ihnen der Boden unerwartet näher kommt. Tragen Sie einen Helm.",
       "Denken Sie immer daran: Das Licht am Ende des Tunnels kann auch ein Zug sein.",
       "Ihre astrale Signatur ähnelt einem Haftbefehl. Meiden Sie Grenzkontrollen.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
+      "Merkur wandert aus dem Haus des toom. Sein Ratschlag: Respekt, wer's selber macht.",
       "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
       "Saturn, Jupiter und Uranus bilden eine antizyklische Permutation und Ihr astrales Levi-Civita-Symbol wechselt ins Negative. Lassen Sie die Finger von der Einstein-Summenkonvention.",
       "Der Mond zeigt heute, wie auch Sie, nur eine seiner Seiten. Die andere ist deutlich dunkler und vermutlich lebensfeindlich."
@@ -372,7 +384,7 @@
       "Zum Schutz gegen schädliche Konstellationen müssen Sie mir ihr Vermögen übertragen.",
       "Merkur und Saturn im Quadrat setzen das Auswahlaxiom außer Kraft. Hantieren Sie, sofern nicht vermeidbar, höchst vorsichtig mit überabzählbaren Mengen.",
       "Wer hoch fliegt, der wird vom Propeller geschreddert. Nutzen Sie dies als Vorwand für fehlende Zielstrebigkeit.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
+      "Die Sterne haben viel mit Ihnen gemeinsam: Sie sind wunderschön anzusehen und besitzen ein unfassbar attraktives Potential.",
       "Die astrologischen Zeichen stehen der empirischen Realität heute feindlich gegenüber. Stärken Sie Ihre Verbindung mit dem Universum durch Meditation oder Halluzinogene.",
       "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied."
     ],
@@ -406,8 +418,8 @@
       "Vermutlich gewinnen Sie nicht im Lotto. Dafür werden Sie demnächst an der Front gebraucht.",
       "Der Mond im vierten Quartal amortisiert sich wieder. Das begünstigt die Wirkung von ganzheitlichen Arzneien.",
       "Ihre astrale Aura riecht nach nassem Moos, was Ihnen den Zutritt zu Aquarien erschweren kann.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
+      "Saturn und Mars stehen mit dem Centurio in der Schildkröten-Formation: das stärkt Sie gegen Barbaren, aber nehmen Sie sich vor Kriegselefanten in Acht.",
+      "Wer anderen einen Graben gräbt, kann an der Ostfront wertvolle Dienste leisten.",
       "Uranus rotiert schräg verkippt um seine Achse. Das gleiche dürfen Sie nach der dritten Flasche Wein auch erleben.",
       "Sie dürfen sich einen Glückspilz nennen: Offenbar ist die Evolution an Ihnen vorbeigegangen, ohne große Spuren zu hinterlassen.",
       "Jupiter erleuchtet das Haus der Krebse und lässt Sie alles hinterfragen. Stehen Sie zu sich: lassen Sie sich nicht von einem Gasplaneten gaslighten."
@@ -441,8 +453,8 @@
       "Sie können erheblich beim Brandschutz sparen. Kündigen Sie ihre Versicherungen.",
       "Die Sonne geht heute im Osten auf. Kaufen Sie daher eiligst zwei Laibe Meisterbrot mit Saaten (750g) für je 1,99 bei Lidl.",
       "Wenn sich der Mond zurückzieht, sitzen Sie auf dem Trockenen. Deshalb: Bleiben Sie hydriert!",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
-      "Ihr Horoskop ist heute nicht wohldefiniert. Schauen Sie einfach bei einem anderen Tierkreiszeichen rein, das macht keinen Unterschied.",
+      "Der Planet Arrakis wandert wieder ins Haus der Harkonnen. Gehen Sie daher sparsam mit Gewürzen um.",
+      "Uranus steht günstig für (b)anale Wortspiele. Ihre Mitmenschen halten Sie ohnehin schon für niveaulos.",
       "Die Sterne stehen eindeutig: Fahren Sie zum Frankfurter Hauptbahnhof. Gehen Sie aus dem Seiteneingang, dann direkt links. Ein mysteriöser Mann wird Ihnen eine Pille anbieten. Nutzen Sie die Chance, um Ihr Leben zu verändern.",
       "Neptun vernebelt schon wieder Ihre Sinne. Haben Sie schon wieder an den falschen Pilzen geleckt?",
       "Der feucht-fröhlich dreinblickende Merkur rät Ihnen: Auch ein blindes Huhn kann mal einen Korn trinken.",
